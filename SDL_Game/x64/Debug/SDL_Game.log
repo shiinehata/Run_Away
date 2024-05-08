@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Data\Local Disk D\Code\Advanced_Programming\SDL_Game\main.cpp(59,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Data\Local Disk D\Code\Advanced_Programming\SDL_Game\main.cpp(60,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Data\Local Disk D\Code\Advanced_Programming\SDL_Game\main.cpp(62,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Data\Local Disk D\Code\Advanced_Programming\SDL_Game\main.cpp(63,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Data\Local Disk D\Code\Advanced_Programming\SDL_Game\main.cpp(656,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  SDL_Game.vcxproj -> C:\Data\Local Disk D\Code\Advanced_Programming\SDL_Game\x64\Debug\SDL_Game.exe
