@@ -1,4 +1,4 @@
-# Snake_Game
+# RUN AWAY
 
 # Introduction
 + Họ và tên: Lê Đức Cường - K68CA3 - UET - VNU
